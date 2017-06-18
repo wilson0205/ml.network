@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About ML.network
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
