@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity & Machine Learning Accelerator, CyberLaunch, Announces Inaugural
   Demo Day
-date: 2017-06-20 04:04:00 Z
+date: 2016-06-20 04:04:00 Z
 ---
 
 CyberLaunch, the leading accelerator for information security and machine learning startups, today announced its inaugural ‘Demo Day,’ for Thursday, Aug. 25, at Atlanta Tech Village. Accredited investors, entrepreneurs and media are invited to attend a private viewing of the accelerators’ first seven startups. Demo Day attendees will have the opportunity to meet with each startup founder, network with investors and executives from the corporate community, and get to know some of CyberLaunch’s 140+ mentors. The event will also include a Startup Showcase, featuring 20 additional startups, and a panel on information security and machine learning, consisting of global industry experts.
